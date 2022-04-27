@@ -312,9 +312,9 @@ img {
   display: flex;
 }
 .team-item-contant {
-  /* padding: 30px 32px; */
   padding-top: 30px;
   padding-bottom: 30px;
+  background-color: var(--primary-bg-color);
 }
 .team-list-item {
   flex-basis: calc(100% / 4);
